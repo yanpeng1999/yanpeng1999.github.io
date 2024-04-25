@@ -1,4 +1,4 @@
-Hello and welcome to this blog. I am a engineering student at the University of Queensland.  
+Hello and welcome to this blog. 
 
 ![Image of fast.ai logo](images/logo.png)
 
@@ -8,3 +8,4 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 
 
 I have a *blog*.
+I am a engineering student at the University of Queensland.  
